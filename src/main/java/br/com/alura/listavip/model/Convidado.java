@@ -15,6 +15,16 @@ public class Convidado {
 	private String email;
 	private String telefone;
 
+	@Deprecated
+	public Convidado(){}
+
+	public Convidado(String nome, String email, String telefone){
+		super();
+	    this.nome = nome;
+	    this.email = email;
+	    this.telefone = telefone;
+	}
+	
 	public Long getId() {
 		return id;
 	}
