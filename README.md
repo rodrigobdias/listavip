@@ -10,5 +10,7 @@ https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-
 
 https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.15
 
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
 https://getbootstrap.com/
 
