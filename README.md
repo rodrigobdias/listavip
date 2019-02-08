@@ -12,5 +12,9 @@ https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.15
 
 https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 
+https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html
+
+http://spring.io/guides/gs/actuator-service/
+
 https://getbootstrap.com/
 
